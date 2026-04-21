@@ -15,15 +15,13 @@ Here's what ships:**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=samoletek&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&hide=stars,prs,issues&hide_rank=false&custom_title=github+activity" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoletek&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6&custom_title=languages" />
+<img src="https://streak-stats.demolab.com?user=samoletek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samoletek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f2937&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=samoletek&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&hide=stars,prs,issues&hide_rank=false&custom_title=github+activity" />
 
 </div>
 
