@@ -1,15 +1,15 @@
-**I'm Drew — lead full-stack architect. 
+**I'm Drew — senior software dev. 
 Here's what ships:**
 
 **· Mobile Apps** — full-cycle iOS and Android in React Native and native Swift. I know App Store guidelines well enough to navigate rejections and ship on time.
+
+**· Custom Development** — when no-code hits its ceiling: Node.js, Next.js, TypeScript, PostgreSQL, React. Web apps, dashboards, internal tools. Built to last and handed over with documentation.
 
 **· Automation** — multi-system integrations across Monday, HubSpot, Salesforce, Pipedrive, Zoho, connected with QuickBooks, Stripe, Xero, and more. Real-time bidirectional sync with error handling and monitoring. 30+ API integrations across logistics, finance, healthcare, and manufacturing.
 
 **· AI Integrations** — custom agents via Claude API and OpenAI. Voice bots through Vapi, Retell AI, and Twilio with ElevenLabs voices. RAG systems, MCP-based workflows. Production deployments — not demos.
 
 **· Vibecode Rescue** — you used AI to build a prototype and it works until it doesn't. Wrong architecture, no error handling, security gaps, logic that breaks under real load. I audit, tell you exactly what's broken, and refactor it into something that runs in production.
-
-**· Custom Development** — when no-code hits its ceiling: Node.js, Next.js, TypeScript, PostgreSQL, React. Web apps, dashboards, internal tools. Built to last and handed over with documentation.
 
 ---
 
