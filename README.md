@@ -28,5 +28,3 @@ Here's what ships:**
 </div>
 
 ---
-
-<div align="center">
