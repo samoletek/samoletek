@@ -20,11 +20,3 @@ Here's what ships:**
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoletek&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
-
-</div>
-
----
